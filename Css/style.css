@@ -255,6 +255,7 @@ body{
     margin-block-start: .6rem;
 }
 .input-text{
+    outline: none;
     border: none;
     font-size: 1rem;
     padding-inline: .5rem;
